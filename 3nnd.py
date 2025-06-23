@@ -1,6 +1,0 @@
-food=input("Enter a food name:")
-plant=input("Enter a plant name:")
-cook=input("Enter a cooking method:")
-burn=input("Enter something burned:")
-item=input("Enter a item name:")
-print(food,"with",burn,plant,"on the top of ",item)
